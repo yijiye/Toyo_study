@@ -1,0 +1,32 @@
+[
+    {
+        "name":"harry",
+        "cardinal_number":"8",
+        "model":"iPhone11 pro"
+    },
+    {
+        "name":"Gundy",
+        "cardinal_number":"7",
+        "model":"iPhone13 mini"
+    },
+    {
+        "name":"리지",
+        "cardinal_number":"8",
+        "model":"iPhone13 pro"
+    },
+    {
+        "name": "vetto",
+        "cardinal_number": "8",
+        "model": "iPhone13"
+    },
+    {
+        "name": "som",
+        "cardinal_number": "7",
+        "model": "iPhone14 Pro"
+    },
+    {
+        "name": "송준",
+        "cardinal_number": "8",
+        "model": "--"
+    },
+]
