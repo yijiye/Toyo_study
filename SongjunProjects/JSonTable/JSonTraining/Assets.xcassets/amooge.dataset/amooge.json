@@ -1,0 +1,22 @@
+[
+    {
+        "name":"해리",
+        "gisu":8,
+        "phone_number":"123456789"
+    },
+    {
+        "name":"리지",
+        "gisu":7,
+        "phone_number":"9876654312"
+    },
+    {
+        "name":"베또",
+        "gisu":10,
+        "phone_number":"2455675789"
+    },
+    {
+        "name":"송준",
+        "gisu":11,
+        "phone_number":"2039481938"
+    }
+]
