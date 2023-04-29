@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "amooge.json",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
